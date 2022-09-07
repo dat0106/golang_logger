@@ -4,3 +4,5 @@
 ```shell
 go get -u github.com/thomascwei/golang_logger
 ```
+
+![log](log.png)
