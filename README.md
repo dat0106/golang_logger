@@ -2,7 +2,7 @@
 
 ## install
 ```shell
-go get -u github.com/thomascwei/golang_logger
+go get -u github.com/dat0106/golang_logger
 ```
 
 ## usage
@@ -10,7 +10,7 @@ go get -u github.com/thomascwei/golang_logger
 package main
 
 import (
-	selfLogger "github.com/thomascwei/golang_logger"
+	selfLogger "github.com/dat0106/golang_logger"
 )
 
 var (
