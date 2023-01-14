@@ -1,4 +1,4 @@
-module github.com/thomascwei/golang_logger
+module github.com/dat0106/golang_logger
 
 go 1.18
 
